@@ -1,0 +1,7 @@
+{
+    "santos":    ["Santos/1.jpg",    "Santos/2.jpg",    "Santos/3.jpg"],
+    "sao paulo":      ["SaoPaulo/1.jpg",      "SaoPaulo/2.jpg",      "SaoPaulo/3.jpg"],
+    "flamengo":   ["Flamengo/1.jpg",   "Flamengo/2.jpg",   "Flamengo/3.jpg"],
+    "palmeiras": ["Palmeiras/1.jpg", "Palmeiras/2.jpg", "Palmeiras/3.jpg"],
+    "corinthians": ["Corinthians/1.jpg", "Corinthians/2.jpg", "Corinthians/3.jpg"]
+}
